@@ -52,9 +52,9 @@ My journey blends **design, coding, and analytics** into creative problem-solvin
 
 ---
 
-## 👁‍🗨 Visitors
+## 🔝 Top Contributed Repos
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ssuparpit&label=Profile%20Views&color=12a4d9&icon=5&pretty=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ssuparpit&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repos" />
 </p>
 
 <!-- Footer Banner -->
