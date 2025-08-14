@@ -33,6 +33,10 @@ My journey blends **design, coding, and analytics** into creative problem-solvin
   <a href="https://www.instagram.com/arpit_analytix/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://arpitsdata.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="mailto:iamarpit43@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://bento.me/a-square"><img src="https://img.shields.io/badge/Bento.me-000000?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
+  <a href="https://x.com/sayarpit16"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://in.pinterest.com/iamarpit43/"><img src="https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/iamarp9rer/"><img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
