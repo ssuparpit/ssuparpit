@@ -57,7 +57,7 @@ My journey blends **design, coding, and analytics** into creative problem-solvin
   <img src="https://github-contributor-stats.vercel.app/api?username=ssuparpit&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repos" />
 </p>
 
-<!-- Footer Banner -->
+<!-- Cool Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:8A2BE2&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00CED1&height=120&section=footer&text=Thanks%20for%20Visiting%20🤝&fontSize=20&fontColor=ffffff" />
 </p>
