@@ -63,7 +63,7 @@ Hey there! I'm **Arpit** – a creative mind blending **data, design, and code**
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/ssuparpit/ssuparpit/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ssuparpit/ssuparpit/main/dist/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 <!-- Footer Divider -->
