@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Arpit+👋;Data+Analyst+📊;Designer+🎨;Coder+💻;AI+Enthusiast+🤖)](https://git.io/typing-svg)
-
 <!-- Header Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Arpit+%F0%9F%91%8B;Data+Analyst+%7C+Engineer+%7C+Designer;Turning+Data+into+Stories+%F0%9F%93%88;Building+%26+Breaking+Cool+Things+%F0%9F%9A%80" alt="Typing SVG" />
