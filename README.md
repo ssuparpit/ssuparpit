@@ -43,9 +43,24 @@ My journey blends **design, coding, and analytics** into creative problem-solvin
 
 ## 💻 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,postgres,oracle,pandas,numpy,matplotlib,plotly,pytorch,sklearn,scipy,notion,powerbi,postman" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,unity,unreal,steam" />
+  <!-- Programming & Data -->
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,postgres,oracle" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,plotly,sklearn,scipy" /><br/>
+  
+  <!-- Cloud & Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase" />
+  
+  <!-- Visualization & BI -->
+  <img src="https://skillicons.dev/icons?i=powerbi" />
+  
+  <!-- Development Tools -->
+  <img src="https://skillicons.dev/icons?i=postman,notion" /><br/>
+  
+  <!-- Gaming & Engines -->
+  <img src="https://skillicons.dev/icons?i=unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=steam" />
 </p>
+
 
 ---
 
