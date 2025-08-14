@@ -54,7 +54,7 @@ My journey blends **design, coding, and analytics** into creative problem-solvin
 
 ## 👁‍🗨 Visitors
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ssuparpit&icon=0&color=12" />
+  <img src="https://visitcount.itsvg.in/api?id=ssuparpit&label=Profile%20Views&color=12a4d9&icon=5&pretty=true" />
 </p>
 
 <!-- Footer Banner -->
