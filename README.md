@@ -1,3 +1,85 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Arpit+👋;Data+Analyst+📊;Designer+🎨;Coder+💻;AI+Enthusiast+🤖)](https://git.io/typing-svg)
+
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Arpit+%F0%9F%91%8B;Data+Analyst+%7C+Engineer+%7C+Designer;Turning+Data+into+Stories+%F0%9F%93%88;Building+%26+Breaking+Cool+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<!-- Glitchy Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=80&section=header" />
+
+## 🌟 About Me
+Hey there! I'm **Arpit** – a creative mind blending **data, design, and code** to craft things that *look cool* and *work even cooler*.  
+- 📊 Transforming messy datasets into crystal-clear insights.  
+- 🎨 Designing dashboards and visuals that feel like art.  
+- 💡 Always learning, always shipping.  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://bento.me/a-square"><img src="https://skillicons.dev/icons?i=devto" width="40" /></a>
+  <a href="https://x.com/sayarpit16"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+  <a href="https://in.pinterest.com/iamarpit43/"><img src="https://skillicons.dev/icons?i=pinterest" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/iamarp9rer/"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" /></a>
+  <a href="https://linkedin.com/in/arpit-analytics"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="mailto:arpit@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+</p>
+
+---
+
+## 💻 Languages & Tools
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite" />
+  <br/>
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=postgres,oracle,pandas,numpy" />
+  <br/>
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=matplotlib,plotly,pytorch,sklearn" />
+  <br/>
+  <!-- Row 4 -->
+  <img src="https://skillicons.dev/icons?i=scipy,notion,powerbi,postman" />
+  <br/>
+  <!-- Row 5 -->
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,unity,unreal" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssuparpit&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ssuparpit&theme=radical" alt="streak"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssuparpit&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ssuparpit&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repos" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/ssuparpit/ssuparpit/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<!-- Footer Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=80&section=footer" />
+
+
+
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00CED1&height=250&section=header&text=Arpit%20Agrawal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
