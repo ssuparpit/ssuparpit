@@ -85,12 +85,6 @@ Hey there! I'm **Arpit** – a creative mind blending **data, design, and code**
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 </p>
 
----
-
-## 🔝 Top Contributed Repos
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ssuparpit&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repos" />
-</p>
 
 <!-- Cool Footer -->
 <p align="center">
