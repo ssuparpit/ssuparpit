@@ -80,54 +80,6 @@ Hey there! I'm **Arpit** – a creative mind blending **data, design, and code**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=80&section=footer" />
 
 
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00CED1&height=250&section=header&text=Arpit%20Agrawal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
-</p>
-
----
-
-## 💫 About Me
-Hi, I'm **Arpit**, a passionate **Data Analyst** from India 📍.  
-I turn messy data into meaningful stories — using Python, SQL, Power BI, and more.  
-My journey blends **design, coding, and analytics** into creative problem-solving.  
-
-- 🔭 Currently working on **Machine Learning, R, CRM Integration, KPI Dashboards**  
-- 📝 Regularly sharing insights on [Medium](https://arpitsdata.medium.com/)  
-- 📊 Skilled in **Python, SQL, Excel, Power BI, Tableau, Data Analysis**  
-- 📬 Reach me at **iamarpit43@gmail.com**  
-- ⚡ Fun fact: *I think I’m funny. My code sometimes agrees.* 😏  
-
----
-
-
-
----
-
-
----
-
-## 💻 Languages & Tools
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite" />
-  <br/>
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=postgres,oracle,pandas,numpy" />
-  <br/>
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=matplotlib,plotly,pytorch,sklearn" />
-  <br/>
-  <!-- Row 4 -->
-  <img src="https://skillicons.dev/icons?i=scipy,notion,powerbi,postman" />
-  <br/>
-  <!-- Row 5 -->
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,unity,unreal" />
-</p>
-
----
-
 ## 📜 Random Data Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
