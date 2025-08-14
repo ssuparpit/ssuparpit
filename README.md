@@ -14,14 +14,16 @@ Hey there! I'm **Arpit** – a creative mind blending **data, design, and code**
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Connect With Me
 <p align="center">
-  <a href="https://bento.me/a-square"><img src="https://skillicons.dev/icons?i=devto" width="40" /></a>
-  <a href="https://x.com/sayarpit16"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-  <a href="https://in.pinterest.com/iamarpit43/"><img src="https://skillicons.dev/icons?i=pinterest" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/iamarp9rer/"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" /></a>
-  <a href="https://linkedin.com/in/arpit-analytics"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="mailto:arpit@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="https://www.linkedin.com/in/arpit-agrawal8269149/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/arpit_analytix/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://arpitsdata.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:iamarpit43@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://bento.me/a-square"><img src="https://img.shields.io/badge/Bento.me-000000?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
+  <a href="https://x.com/sayarpit16"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://in.pinterest.com/iamarpit43/"><img src="https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/iamarp9rer/"><img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
@@ -46,10 +48,11 @@ Hey there! I'm **Arpit** – a creative mind blending **data, design, and code**
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssuparpit&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ssuparpit&theme=radical" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ssuparpit&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssuparpit&theme=radical&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuparpit&theme=radical&hide_border=false&layout=compact" height="150" />
 </p>
 
 ---
@@ -98,26 +101,10 @@ My journey blends **design, coding, and analytics** into creative problem-solvin
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssuparpit&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssuparpit&theme=radical&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuparpit&theme=radical&hide_border=false&layout=compact" height="150" />
-</p>
+
 
 ---
 
-## 🌍 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/arpit-agrawal8269149/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/arpit_analytix/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://arpitsdata.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="mailto:iamarpit43@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://bento.me/a-square"><img src="https://img.shields.io/badge/Bento.me-000000?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
-  <a href="https://x.com/sayarpit16"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://in.pinterest.com/iamarpit43/"><img src="https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/user/iamarp9rer/"><img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
 
 ---
 
