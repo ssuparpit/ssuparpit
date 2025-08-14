@@ -43,24 +43,21 @@ My journey blends **design, coding, and analytics** into creative problem-solvin
 
 ## 💻 Languages & Tools
 <p align="center">
-  <!-- Programming & Data -->
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,postgres,oracle" />
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,plotly,sklearn,scipy" /><br/>
-  
-  <!-- Cloud & Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase" />
-  
-  <!-- Visualization & BI -->
-  <img src="https://skillicons.dev/icons?i=powerbi" />
-  
-  <!-- Development Tools -->
-  <img src="https://skillicons.dev/icons?i=postman,notion" /><br/>
-  
-  <!-- Gaming & Engines -->
-  <img src="https://skillicons.dev/icons?i=unity,unreal" />
-  <img src="https://skillicons.dev/icons?i=steam" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite" />
+  <br/>
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=postgres,oracle,pandas,numpy" />
+  <br/>
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=matplotlib,plotly,pytorch,sklearn" />
+  <br/>
+  <!-- Row 4 -->
+  <img src="https://skillicons.dev/icons?i=scipy,notion,powerbi,postman" />
+  <br/>
+  <!-- Row 5 -->
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,unity,unreal" />
 </p>
-
 
 ---
 
