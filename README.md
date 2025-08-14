@@ -30,20 +30,10 @@ Hey there! I'm **Arpit** – a creative mind blending **data, design, and code**
 
 ## 💻 Languages & Tools
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite" />
-  <br/>
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=postgres,oracle,pandas,numpy" />
-  <br/>
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=matplotlib,plotly,pytorch,sklearn" />
-  <br/>
-  <!-- Row 4 -->
-  <img src="https://skillicons.dev/icons?i=scipy,notion,powerbi,postman" />
-  <br/>
-  <!-- Row 5 -->
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,unity,unreal" />
+  <img
+    src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,postgres,oracle,mongodb,supabase,pandas,numpy,matplotlib,plotly,sklearn,scipy,pytorch,notion,powerbi,postman,unity,unreal&perline=50"
+    alt="Tech stack in one line"
+  />
 </p>
 
 ---
